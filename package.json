@@ -1,0 +1,9 @@
+{
+  "name": "oopstab",
+  "title": "OopsTab",
+  "id": "com.glasstowerstudios.addons.oopstab",
+  "description": "A Firefox addon that allows you to quickly dismiss accidentally opened tabs with the push of a button.",
+  "author": "Scott Johnson",
+  "license": "MPL 2.0",
+  "version": "1.0"
+}
