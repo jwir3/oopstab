@@ -7,7 +7,7 @@
     <em:id>com.glasstowerstudios.addons.oopstab</em:id>
     <em:version>1.0</em:version>
     <em:type>2</em:type>
-    <em:bootstrap>true</em:bootstrap>
+    <em:bootstrap>false</em:bootstrap>
     <em:unpack>false</em:unpack>
 
     <!-- Firefox -->
@@ -23,6 +23,7 @@
     <em:name>OopsTab</em:name>
     <em:description>A Firefox add-on that allows accidentally opened tabs to be dismissed with a single button press.</em:description>
     <em:creator>Scott Johnson</em:creator>
+    <em:optionsURL>chrome://oopstab/content/options.xul</em:optionsURL>
     <em:optionsType>2</em:optionsType>
   </Description>
 </RDF>

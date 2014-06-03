@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<vbox xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <setting
+    pref="extensions.oopstab.timeout"
+    pref-name="timeout"
+    title="Time after opening a new tab that it can be closed with ESC (in ms)"
+    type="integer"/>
+</vbox>
