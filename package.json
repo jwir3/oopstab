@@ -1,9 +1,16 @@
 {
   "name": "oopstab",
   "title": "OopsTab",
-  "id": "com.glasstowerstudios.addons.oopstab",
+  "id": "oopstab@glasstowerstudios.com",
   "description": "A Firefox add-on that allows accidentally opened tabs to be dismissed with a single button press.",
   "author": "Scott Johnson",
   "license": "MPL 2.0",
-  "version": "1.0"
+  "version": "1.0",
+  "preferences": [{
+    "name": "timeout",
+    "title": "Time after opening a new tab that it can be dismissed by pressing ESC (in ms)",
+    "type": "integer",
+    "value": 5000
+  }],
+  "icon": "data/icons/oopstab.png"
 }
